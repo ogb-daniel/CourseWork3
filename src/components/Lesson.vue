@@ -1,4 +1,4 @@
-<!-- <script>
+<script>
 export default {
     props: ['lessons','filteredList','canShowFilteredList'],
   methods:{
@@ -30,7 +30,7 @@ export default {
         }
 }
 </script>
--->
+
 <template>
                <div class="flex flex-wrap -m-4" v-if="canShowFilteredList" >
                  
