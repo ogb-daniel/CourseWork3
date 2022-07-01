@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
 export default {
     props: ['lessons','filteredList','canShowFilteredList'],
   methods:{
@@ -73,4 +73,4 @@ export default {
         </div>
 </div>
 </div>
-</template>
+</template> -->
