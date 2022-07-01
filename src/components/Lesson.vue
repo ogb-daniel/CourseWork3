@@ -30,6 +30,7 @@ export default {
         }
 }
 </script>
+-->
 <template>
                <div class="flex flex-wrap -m-4" v-if="canShowFilteredList" >
                  
@@ -73,4 +74,4 @@ export default {
         </div>
 </div>
 </div>
-</template> -->
+</template>
