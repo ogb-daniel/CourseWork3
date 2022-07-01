@@ -1,4 +1,4 @@
-<!-- <script>
+<script>
 export default {
     props:['cart',],
     data() {
@@ -68,7 +68,7 @@ export default {
     },
 }
 </script>
--->
+
 <template>
 
   <div class="flex justify-between mb-2">
