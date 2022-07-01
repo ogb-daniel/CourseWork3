@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
 export default {
     props:['cart',],
     data() {
@@ -104,4 +104,4 @@ export default {
       </div>
     </div>
 </div>
-</template>
+</template> -->
