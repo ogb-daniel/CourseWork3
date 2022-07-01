@@ -1,5 +1,6 @@
 <script>
-
+import Lesson from './components/Lesson.vue';
+import Checkout from './components/Checkout.vue';
 export default {
   data(){
     return{
